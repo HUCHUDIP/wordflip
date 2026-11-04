@@ -1,4 +1,4 @@
-const CACHE = "wordflip-v3";
+const CACHE = "wordflip-v4";
 const ASSETS = ["./", "./index.html", "./app.js", "./jszip.min.js",
   "./manifest.webmanifest", "./icon-192.png", "./icon-512.png"];
 
